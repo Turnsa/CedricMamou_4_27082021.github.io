@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /img/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+
+sitemap: htpp://https://github.com/Turnsa/chouette.github.io/sitemap.txt
