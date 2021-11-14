@@ -5,4 +5,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /js/
 
-sitemap: htpp://https://github.com/Turnsa/chouette.github.io/sitemap.txt
+sitemap: https://github.com/Turnsa/CedricMamou_4_27082021.github.io/sitemap.txt
